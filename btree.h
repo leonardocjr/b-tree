@@ -14,14 +14,24 @@ typedef struct arvoreB {
     int ordem;
 } ArvoreB;
 
+ArvoreB* criarArvore();
+
 No* criarNo();
 
 void splitNo(ArvoreB* arvore, No* no);
 
 void insert(ArvoreB* arvore, int chave);
 
-void printDot(No* no);
+void merge(No* no, int i);
 
-void printTree(ArvoreB* arvore);
+int getSucessor(No* no, int i);
+
+int getPredecessor(No* no, int i);
+
+void delete(No* no, int k);
+
+void print2DUtil(No *no, int space, int parent_key);
+
+void print2D(ArvoreB *arvore);
 
 #endif
