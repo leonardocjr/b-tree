@@ -1,5 +1,4 @@
-# b-tree
- # Repositório para implementação de Árvore B
+# Repositório para implementação de Árvore B
 
 **Autores**: [Leonardo Canuto Junior](https://github.com/leonardocjr) e [Lucas de Souza Pelegrina]()<br />
 **Orientador:** Diego Addan Gonçalves<br />
