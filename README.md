@@ -1,6 +1,6 @@
 # b-tree
  # Repositório para implementação de Árvore B
 
-**Autores**: [Leonardo Canuto Junior](https://github.com/leonardocjr), [Lucas de Souza Pelegrina]()
-**Orientador:** Francisco Pereira Junior (Thesko)
+**Autores**: [Leonardo Canuto Junior](https://github.com/leonardocjr) e [Lucas de Souza Pelegrina]()<br />
+**Orientador:** Diego Addan Gonçalves<br />
 **Instituição de Ensino:** [UTFPR](https://portal.utfpr.edu.br/home)
