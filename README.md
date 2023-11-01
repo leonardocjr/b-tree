@@ -7,8 +7,8 @@
 ### Para executar e testar o código:
 * Tenha o GCC ou algum outro compilador de C/C++ na sua máquina;
 * Abra o terminal de comandos na pasta correta;
-* Execute a compilação do código pela linha: 'gcc main.c'
-* Execute o código compilado pela linha 'a'
+* Execute a compilação do código pela linha: 'gcc main.c -o main'
+* Execute o código compilado pela linha 'main'
 
 ## Demonstrações do print2D no cmd:
 ### É uma árvore de ORDEM 4:
