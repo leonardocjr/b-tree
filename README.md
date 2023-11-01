@@ -14,5 +14,7 @@
 ![image](https://github.com/leonardocjr/b-tree/assets/41709940/86cbb2c4-251e-42a2-a7fd-0d9002dd0144)<br />
 ![image](https://github.com/leonardocjr/b-tree/assets/41709940/19187636-d3fd-49cc-9d24-65a26f288459)<br />
 ![image](https://github.com/leonardocjr/b-tree/assets/41709940/076da44e-0090-4f37-b0dc-389a16d785c9)<br />
-![image](https://github.com/leonardocjr/b-tree/assets/41709940/58b55917-9973-46ee-b479-9c1cd37dd658)
+![image](https://github.com/leonardocjr/b-tree/assets/41709940/58b55917-9973-46ee-b479-9c1cd37dd658)<br />
+![image](https://github.com/leonardocjr/b-tree/assets/41709940/b7d31be6-bc00-4148-8991-17aebdca2f2e)
+
 
