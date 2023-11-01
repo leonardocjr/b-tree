@@ -1,6 +1,7 @@
 #ifndef BTREE_H
 #define BTREE_H
-#define MAX_KEYS 3
+#define MAX_KEYS 4
+// ARVORE DE ORDEM DO 4
 
 typedef struct no {
     int total;
@@ -18,17 +19,19 @@ ArvoreB* criarArvore();
 
 No* criarNo();
 
-void splitNo(ArvoreB* arvore, No* no);
+void split(ArvoreB* arvore, No* no);
 
-void insert(ArvoreB* arvore, int chave);
+void inserir(ArvoreB* arvore, int chave);
 
-void merge(No* no, int i);
+void merge(ArvoreB* arvore, No* no, int index);
 
-int getSucessor(No* no, int i);
+void remove_chave(No* no, int chave, int index);
 
-int getPredecessor(No* no, int i);
+void remove_recursiva(ArvoreB* arvore, No* no, int chave);
 
-void delete(No* no, int k);
+void remove_chave_arv(ArvoreB* arvore, int chave);
+
+void remover(ArvoreB* arvore, int chave);
 
 void print2DUtil(No *no, int space, int parent_key);
 
