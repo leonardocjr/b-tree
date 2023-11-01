@@ -8,7 +8,7 @@
 * Tenha o GCC ou algum outro compilador de C/C++ na sua máquina;
 * Abra o terminal de comandos na pasta correta;
 * Execute a compilação do código pela linha: 'gcc main.c'
-* Execute o código pela linha 'a'
+* Execute o código compilado pela linha 'a'
 
 ## Demonstrações do print2D no cmd:
 ![image](https://github.com/leonardocjr/b-tree/assets/41709940/86cbb2c4-251e-42a2-a7fd-0d9002dd0144)<br />
